@@ -1,3 +1,3 @@
 <p>
-  <img src="car.jpeg">
+  <img width=50% src="car.jpeg">
 </p>
