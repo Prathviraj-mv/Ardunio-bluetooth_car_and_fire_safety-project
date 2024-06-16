@@ -1,3 +1,3 @@
 <p>
-  <img src = "blue.jfif">
+  <img width= 80% src = "blue.jfif">
 </p>
