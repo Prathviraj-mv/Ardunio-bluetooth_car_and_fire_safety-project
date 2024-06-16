@@ -1,3 +1,3 @@
 <p>
-  <img src="car.jpeg">
+  <img src="car.jpg">
 </p>
