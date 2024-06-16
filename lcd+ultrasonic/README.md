@@ -1,3 +1,3 @@
 <p>
-  <img src ="ult.jfif">
+  <img width=50% src ="ult.jfif">
 </p>
