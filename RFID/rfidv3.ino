@@ -17,8 +17,7 @@ void setup() {
   pinMode(A1, OUTPUT);
 
   lcd.begin(16, 2);
-  lcd.setCursor(0, 0);
-  lcd.print("ENTER CARD.");
+
   Serial.begin(9600);  // Initiate a serial communication
   SPI.begin();         // Initiate SPI bus
   mfrc522.PCD_Init();  // Initiate MFRC522
