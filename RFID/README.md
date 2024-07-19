@@ -1,6 +1,6 @@
 <p>
-  <img src="servo.png">
+  <img src="images/servo.png">
 </p>
 <p>
-  <img src="lock.png">
+  <img src="images/lock.png">
 </p>
