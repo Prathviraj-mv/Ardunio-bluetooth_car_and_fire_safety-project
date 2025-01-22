@@ -3,5 +3,5 @@
 Arduino FM RADIO TRANSMITTER module
 # TRANSMITTER Circuit :
 <p>
-  <img width=50% src="IMAGES/IMG_20241118_225016.jpg">
+  <img width=50% src="IMAGES/trans.jfif">
 </p>
